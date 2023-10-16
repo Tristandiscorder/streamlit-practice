@@ -5,7 +5,7 @@ import numpy as np
 from time import sleep
 
 st.set_page_config(
-    page_icon=":book:"
-    page_title='practice'
+    page_icon=":book:",
+    page_title='practice',
     layout='wide',
 )
